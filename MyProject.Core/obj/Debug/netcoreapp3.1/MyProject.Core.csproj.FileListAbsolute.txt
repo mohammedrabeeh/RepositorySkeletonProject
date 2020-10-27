@@ -1,0 +1,12 @@
+D:\Rabeeh\MyProject2\MyProject\MyProject.Core\bin\Debug\netcoreapp3.1\MyProject.Core.deps.json
+D:\Rabeeh\MyProject2\MyProject\MyProject.Core\bin\Debug\netcoreapp3.1\MyProject.Core.runtimeconfig.json
+D:\Rabeeh\MyProject2\MyProject\MyProject.Core\bin\Debug\netcoreapp3.1\MyProject.Core.runtimeconfig.dev.json
+D:\Rabeeh\MyProject2\MyProject\MyProject.Core\bin\Debug\netcoreapp3.1\MyProject.Core.dll
+D:\Rabeeh\MyProject2\MyProject\MyProject.Core\bin\Debug\netcoreapp3.1\MyProject.Core.pdb
+D:\Rabeeh\MyProject2\MyProject\MyProject.Core\obj\Debug\netcoreapp3.1\MyProject.Core.csprojAssemblyReference.cache
+D:\Rabeeh\MyProject2\MyProject\MyProject.Core\obj\Debug\netcoreapp3.1\MyProject.Core.AssemblyInfoInputs.cache
+D:\Rabeeh\MyProject2\MyProject\MyProject.Core\obj\Debug\netcoreapp3.1\MyProject.Core.AssemblyInfo.cs
+D:\Rabeeh\MyProject2\MyProject\MyProject.Core\obj\Debug\netcoreapp3.1\MyProject.Core.csproj.CoreCompileInputs.cache
+D:\Rabeeh\MyProject2\MyProject\MyProject.Core\obj\Debug\netcoreapp3.1\MyProject.Core.dll
+D:\Rabeeh\MyProject2\MyProject\MyProject.Core\obj\Debug\netcoreapp3.1\MyProject.Core.pdb
+D:\Rabeeh\MyProject2\MyProject\MyProject.Core\obj\Debug\netcoreapp3.1\MyProject.Core.genruntimeconfig.cache

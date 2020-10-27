@@ -1,0 +1,14 @@
+D:\Rabeeh\MyProject2\MyProject\MyProject.Service\bin\Debug\netcoreapp3.1\MyProject.Service.deps.json
+D:\Rabeeh\MyProject2\MyProject\MyProject.Service\bin\Debug\netcoreapp3.1\MyProject.Service.dll
+D:\Rabeeh\MyProject2\MyProject\MyProject.Service\bin\Debug\netcoreapp3.1\MyProject.Service.pdb
+D:\Rabeeh\MyProject2\MyProject\MyProject.Service\bin\Debug\netcoreapp3.1\MyProject.Core.dll
+D:\Rabeeh\MyProject2\MyProject\MyProject.Service\bin\Debug\netcoreapp3.1\MyProject.Data.dll
+D:\Rabeeh\MyProject2\MyProject\MyProject.Service\bin\Debug\netcoreapp3.1\MyProject.Core.pdb
+D:\Rabeeh\MyProject2\MyProject\MyProject.Service\bin\Debug\netcoreapp3.1\MyProject.Data.pdb
+D:\Rabeeh\MyProject2\MyProject\MyProject.Service\obj\Debug\netcoreapp3.1\MyProject.Service.csprojAssemblyReference.cache
+D:\Rabeeh\MyProject2\MyProject\MyProject.Service\obj\Debug\netcoreapp3.1\MyProject.Service.AssemblyInfoInputs.cache
+D:\Rabeeh\MyProject2\MyProject\MyProject.Service\obj\Debug\netcoreapp3.1\MyProject.Service.AssemblyInfo.cs
+D:\Rabeeh\MyProject2\MyProject\MyProject.Service\obj\Debug\netcoreapp3.1\MyProject.Service.csproj.CoreCompileInputs.cache
+D:\Rabeeh\MyProject2\MyProject\MyProject.Service\obj\Debug\netcoreapp3.1\MyProject.Service.csproj.CopyComplete
+D:\Rabeeh\MyProject2\MyProject\MyProject.Service\obj\Debug\netcoreapp3.1\MyProject.Service.dll
+D:\Rabeeh\MyProject2\MyProject\MyProject.Service\obj\Debug\netcoreapp3.1\MyProject.Service.pdb

@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject\\MyProject.WebUI.csproj": {}
+  },
+  "projects": {
+    "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Core\\MyProject.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Core\\MyProject.Core.csproj",
+        "projectName": "MyProject.Core",
+        "projectPath": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Core\\MyProject.Core.csproj",
+        "packagesPath": "C:\\Users\\Malloos\\.nuget\\packages\\",
+        "outputPath": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Malloos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Data\\MyProject.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Data\\MyProject.Data.csproj",
+        "projectName": "MyProject.Data",
+        "projectPath": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Data\\MyProject.Data.csproj",
+        "packagesPath": "C:\\Users\\Malloos\\.nuget\\packages\\",
+        "outputPath": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Malloos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Core\\MyProject.Core.csproj": {
+                "projectPath": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Core\\MyProject.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Service\\MyProject.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Service\\MyProject.Service.csproj",
+        "projectName": "MyProject.Service",
+        "projectPath": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Service\\MyProject.Service.csproj",
+        "packagesPath": "C:\\Users\\Malloos\\.nuget\\packages\\",
+        "outputPath": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Malloos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Core\\MyProject.Core.csproj": {
+                "projectPath": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Core\\MyProject.Core.csproj"
+              },
+              "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Data\\MyProject.Data.csproj": {
+                "projectPath": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Data\\MyProject.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject\\MyProject.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject\\MyProject.WebUI.csproj",
+        "projectName": "MyProject.WebUI",
+        "projectPath": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject\\MyProject.WebUI.csproj",
+        "packagesPath": "C:\\Users\\Malloos\\.nuget\\packages\\",
+        "outputPath": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Malloos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Core\\MyProject.Core.csproj": {
+                "projectPath": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Core\\MyProject.Core.csproj"
+              },
+              "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Data\\MyProject.Data.csproj": {
+                "projectPath": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Data\\MyProject.Data.csproj"
+              },
+              "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Service\\MyProject.Service.csproj": {
+                "projectPath": "D:\\Rabeeh\\MyProject2\\MyProject\\MyProject.Service\\MyProject.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
